@@ -10,4 +10,8 @@
 background: #F25F5C !important;
 }
 
+.chatroom .input input[type=text] {
+  height: 40px !important;
+}
+
 
